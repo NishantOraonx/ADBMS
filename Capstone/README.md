@@ -7,7 +7,7 @@ Advanced Database Management System (ADBMS)
 This folder contains the capstone project files, source code, database commands, and project documentation.
 
 ## Files
-- `CollegeDB_commands.js` – MongoDB commands and database operations.
+- `CollegeDB_commands.json` – MongoDB commands and database operations.
 - `MongoDB_Capstone_Report.pdf` – Capstone project report.
 
 ## Technologies Used
